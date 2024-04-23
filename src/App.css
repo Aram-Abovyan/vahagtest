@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.users {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 2px;
+}
